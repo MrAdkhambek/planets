@@ -1,26 +1,67 @@
-# Mars
+Mars Facts
+==========
 
-![](https://hdwallpaperim.com/wp-content/uploads/2017/08/22/357485-Mars-space-universe-artwork-planet-space_art.jpg)
+![Mars](https://space-facts.com/wp/wp-content/uploads/mars.jpg)
 
-**Mars** is the fourth [planet](https://en.wikipedia.org/wiki/Planet "Planet") from the [Sun](https://en.wikipedia.org/wiki/Sun "Sun") and the second-smallest planet in the [Solar System](https://en.wikipedia.org/wiki/Solar_System "Solar System") after [Mercury](https://en.wikipedia.org/wiki/Mercury_(planet) "Mercury (planet)"). In English, Mars carries the name of the [Roman god of war](https://en.wikipedia.org/wiki/Mars_(mythology) "Mars (mythology)"), and is often referred to as the '**Red Planet**'.^[[16]](https://en.wikipedia.org/wiki/Mars#cite_note-Zubrin1997-18)^^[[17]](https://en.wikipedia.org/wiki/Mars#cite_note-Rees2012-19)^ The latter refers to the effect of the [iron oxide](https://en.wikipedia.org/wiki/Iron(III)_oxide "Iron(III) oxide") prevalent on Mars' surface, which gives it a [reddish appearance](https://en.wikipedia.org/wiki/Mars_surface_color "Mars surface color") distinctive among the astronomical bodies visible to the naked eye.^[[18]](https://en.wikipedia.org/wiki/Mars#cite_note-nasa_hematite-20)^ Mars is a [terrestrial planet](https://en.wikipedia.org/wiki/Terrestrial_planet "Terrestrial planet") with a thin [atmosphere](https://en.wikipedia.org/wiki/Atmosphere "Atmosphere"), having surface features reminiscent both of the [impact craters](https://en.wikipedia.org/wiki/Impact_crater "Impact crater") of the [Moon](https://en.wikipedia.org/wiki/Moon "Moon") and the valleys, deserts, and [polar ice caps](https://en.wikipedia.org/wiki/Polar_ice_caps "Polar ice caps") of [Earth](https://en.wikipedia.org/wiki/Earth "Earth").
+Mars is the fourth planet from the [Sun](https://space-facts.com/the-sun/) and is the second smallest planet in the solar system. Named after the Roman god of war, Mars is also often described as the "Red Planet" due to its reddish appearance. Mars is a [terrestrial planet](https://space-facts.com/terrestrial-planets/) with a thin atmosphere composed primarily of carbon dioxide.
 
-The days and seasons are likewise comparable to those of Earth, because the [rotational period](https://en.wikipedia.org/wiki/Rotational_period "Rotational period") as well as the tilt of the [rotational axis](https://en.wikipedia.org/wiki/Rotational_axis "Rotational axis") relative to the [ecliptic plane](https://en.wikipedia.org/wiki/Ecliptic_plane "Ecliptic plane") are very similar. Mars is the site of [Olympus Mons](https://en.wikipedia.org/wiki/Olympus_Mons "Olympus Mons"), the largest [volcano](https://en.wikipedia.org/wiki/Volcano "Volcano") and [highest known mountain on any planet in the Solar System](https://en.wikipedia.org/wiki/List_of_tallest_mountains_in_the_Solar_System "List of tallest mountains in the Solar System"), and of [Valles Marineris](https://en.wikipedia.org/wiki/Valles_Marineris "Valles Marineris"), one of the largest canyons in the Solar System. The smooth [Borealis basin](https://en.wikipedia.org/wiki/Borealis_basin "Borealis basin") in the northern hemisphere covers 40% of the planet and may be a giant impact feature.^[[19]](https://en.wikipedia.org/wiki/Mars#cite_note-northcratersn-21)^^[[20]](https://en.wikipedia.org/wiki/Mars#cite_note-northcraterguard-22)^ Mars has two [moons](https://en.wikipedia.org/wiki/Moons_of_Mars "Moons of Mars"), [Phobos](https://en.wikipedia.org/wiki/Phobos_(moon) "Phobos (moon)") and [Deimos](https://en.wikipedia.org/wiki/Deimos_(moon) "Deimos (moon)"), which are small and irregularly shaped. These may be captured [asteroids](https://en.wikipedia.org/wiki/Asteroid "Asteroid"),^[[21]](https://en.wikipedia.org/wiki/Mars#cite_note-23)^^[[22]](https://en.wikipedia.org/wiki/Mars#cite_note-adler-24)^ similar to [5261 Eureka](https://en.wikipedia.org/wiki/5261_Eureka "5261 Eureka"), a [Mars trojan](https://en.wikipedia.org/wiki/Mars_trojan "Mars trojan").
+Facts about Mars
+----------------
 
-|Orbital characteristics|Values|
-|--|--|
-|Aphelion|249200000 km (154800000 mi; 1.666 AU)|
-|Perihelion|206700000 km (128400000 mi; 1.382 AU)|
-|Average orbital speed|24.007 km/s (86430 km/h; 53700 mph)|
-|Inclination|1.850° to ecliptic; 5.65° the Sun's equator; 1.67° to invariable plane|
+-   Mars and Earth have approximately the same landmass.\
+    Even though Mars has only 15% of the [Earth's](https://space-facts.com/earth/) volume and just over 10% of the Earth's mass, around two thirds of the Earth's surface is covered in water. Martian surface gravity is only 37% of the Earth's (meaning you could leap nearly three times higher on Mars).
+-   Mars is home to the tallest mountain in the solar system.\
+    [Olympus Mons](https://space-facts.com/mars-features/#olympus), a shield volcano, is 21km high and 600km in diameter. Despite having formed over billions of years, evidence from volcanic lava flows is so recent many scientists believe it could still be active.
+-   Only 18 missions to Mars have been successful.\
+    As of September 2014 there have been 40 [missions to Mars](https://space-facts.com/mars-missions/), including orbiters, landers and rovers but not counting flybys. The most recent arrivals include the Mars Curiosity mission in 2012, the MAVEN mission, which arrived on September 22, 2014, followed by the Indian Space Research Organization's MOM Mangalyaan orbiter, which arrived on September 24, 2014. The next missions to arrive will be the European Space Agency's ExoMars mission, comprising an orbiter, lander, and a rover, followed by NASA's InSight robotic lander mission, slated for launch in March 2016 and a planned arrival in September, 2016.
+-   Mars has the largest dust storms in the solar system.\
+    They can last for months and cover the entire planet. The seasons are extreme because its elliptical (oval-shaped) orbital path around the Sun is more elongated than most other planets in the [solar system](https://space-facts.com/solar-system/).
+-   On Mars the Sun appears about half the size as it does on Earth.\
+    At the closest point to the Sun, the Martian southern hemisphere leans towards the Sun, causing a short, intensely hot summer, while the northern hemisphere endures a brief, cold winter: at its farthest point from the Sun, the Martian northern hemisphere leans towards the Sun, causing a long, mild summer, while the southern hemisphere endures a lengthy, cold winter.
+-   Pieces of Mars have fallen to Earth.\
+    Scientists have found tiny traces of Martian atmosphere within meteorites violently ejected from Mars, then orbiting the solar system amongst galactic debris for millions of years, before crash landing on Earth. This allowed scientists to begin studying Mars prior to launching space missions.
+-   Mars takes its name from the Roman god of war.\
+    The ancient Greeks called the planet Ares, after their god of war; the Romans then did likewise, associating the planet's blood-red colour with Mars, their own god of war. Interestingly, other ancient cultures also focused on colour -- to China's astronomers it was 'the fire star', whilst Egyptian priests called on 'Her Desher', or 'the red one'. The red colour Mars is known for is due to the rock and dust covering its surface being rich in iron.
+-   There are signs of liquid water on Mars.\
+    For years Mars has been known to have water in the form of ice. The first signs of trickling water are dark stripes or stains on crater wall and cliffs seen in satellite images. Due to Mars' atmosphere this water would have to be salty to prevent it from freezing or vaporising.
+-   One day Mars will have a ring.\
+    In the next 20-40 million years Mars' largest moon Phobos will be torn apart by gravitational forces leading to the creation of a ring that could last up to 100 million years.
 
--   95.97% [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide "Carbon dioxide")
--   1.93% [argon](https://en.wikipedia.org/wiki/Argon "Argon")
--   1.89% [nitrogen](https://en.wikipedia.org/wiki/Nitrogen "Nitrogen")
--   0.146% [oxygen](https://en.wikipedia.org/wiki/Oxygen "Oxygen")
--   0.0557% [carbon monoxide](https://en.wikipedia.org/wiki/Carbon_monoxide "Carbon monoxide")
--   0.0210% [water vapor](https://en.wikipedia.org/wiki/Water_vapor "Water vapor")
--   0.0100% [nitrogen oxide](https://en.wikipedia.org/wiki/Nitrogen_oxide "Nitrogen oxide")
--   0.00025% [neon](https://en.wikipedia.org/wiki/Neon "Neon")
--   0.00008% [hydrogen deuterium oxide](https://en.wikipedia.org/wiki/Semiheavy_water "Semiheavy water")
--   0.00003% [krypton](https://en.wikipedia.org/wiki/Krypton "Krypton")
--   0.00001% [xenon](https://en.wikipedia.org/wiki/Xenon "Xenon")
+Mars Diagrams
+-------------
+
+![Mars size compared to Earth](https://space-facts.com/wp/wp-content/uploads/mars-size.png)
+
+Mars size compared to Earth
+
+![Mars distance from the Sun](https://space-facts.com/wp/wp-content/uploads/mars-orbit.png)
+
+Mars distance from the Sun and orbital eccentricity
+
+| Mars - Earth Comparison | Mars | Earth |
+| --- | --- | --- |
+| Diameter: | 6,779 km | 12,742 km |
+| Mass: | 6.39 × 10^23 kg | 5.97 × 10^24 kg |
+| Moons: | 2 | 1 |
+| Distance from Sun: | 227,943,824 km | 149,598,262 km |
+| Length of Year: | 687 Earth days | 365.24 days |
+| Temperature: | -153 to 20 °C | -88 to 58°C |
+
+Mars Features
+-------------
+
+### Moons
+
+Mars has two small moons, [Phobos](https://space-facts.com/moons/phobos/) and [Deimos](https://space-facts.com/moons/deimos/). They were discovered in 1877 by astronomer Asaph Hall, who named them for the Latin terms "fear" and "panic". These moons are thought to be captured asteroids and are among the smallest natural satellites in the solar system.
+
+### Olympus Mons
+
+Mars has the largest volcano in the solar system -- Olympus Mons. It measures some 600 kilometres across and rises nearly 27 kilometres above the surrounding terrain. It is a shield volcano built by the continuous action of flowing lava over millions and millions of years that began some 3 billion years ago.
+
+Olympus Mons is part of a complex of volcanoes that lie along a volcanic plateau called the Tharsis Bulge. This entire region lies over a hotspot, a place in the planet's crust that allows magma from deep inside to flow out to the surface.
+
+### Valles Marineris
+
+The Valles Marineris is an extensive canyon system on the Mars equator. It is 4,200 kilometres long and, in places, is 7 kilometres deep. On Earth, it would span the entire North American continent and beyond.
+
+Mars has has a very primitive form of plate tectonics, and the action of two plates past each other began splitting the surface some 3.5 billion years ago. That set the stage for the formation of the Valles Marineris.
