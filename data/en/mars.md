@@ -9,9 +9,11 @@ The days and seasons are likewise comparable to those of Earth, because the [ro
 |||
 |--|--|
 | Pronunciation | [/ˈmɑːrz/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") ([![About this sound](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png)](https://en.wikipedia.org/wiki/File:En-us-Mars.ogg "About this sound")[listen](https://upload.wikimedia.org/wikipedia/commons/8/83/En-us-Mars.ogg "En-us-Mars.ogg")) |
+
 | [Adjectives](https://en.wikipedia.org/wiki/List_of_adjectivals_and_demonyms_of_astronomical_bodies "List of adjectivals and demonyms of astronomical bodies") | [Martian](https://en.wikipedia.org/wiki/Martian "Martian") [/ˈmɑːrʃən/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") |
-| [Orbital characteristics](https://en.wikipedia.org/wiki/Osculating_orbit "Osculating orbit")^[[3]](https://en.wikipedia.org/wiki/Mars#cite_note-VSOP87-4)^ |
-| [Epoch](https://en.wikipedia.org/wiki/Epoch_(astronomy) "Epoch (astronomy)") [J2000](https://en.wikipedia.org/wiki/J2000 "J2000") |
+
+| [Orbital characteristics] (https://en.wikipedia.org/wiki/Osculating_orbit "Osculating orbit")^[[3]](https://en.wikipedia.org/wiki/Mars#cite_note-VSOP87-4)^ | [Epoch](https://en.wikipedia.org/wiki/Epoch_(astronomy) "Epoch (astronomy)") [J2000](https://en.wikipedia.org/wiki/J2000 "J2000") |
+
 | [Aphelion](https://en.wikipedia.org/wiki/Perihelion_and_aphelion "Perihelion and aphelion") | 249200000 km\
 (154800000 mi; 1.666 AU) |
 
