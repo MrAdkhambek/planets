@@ -1,9 +1,0 @@
-# Neptune
-![enter image description here](https://naked-science.ru/wp-content/uploads/2016/04/article_imageneptune_full.jpg.webp)
-
-The eighth planet from the sun, Neptune is about the size of Uranus and is known for supersonic strong winds. Neptune is far out and cold. The planet is more than 30 times as far from the sun as Earth. Neptune was the first planet predicted to exist by using math, before it was visually detected. Irregularities in the orbit of Uranus led French astronomer Alexis Bouvard to suggest some other planet might be exerting a gravitational tug. German astronomer Johann Galle used calculations to help find Neptune in a telescope. Neptune is about 17 times as massive as Earth and has a rocky core.
-## Neptune facts
--   **Discovery: 1846**
--   **Diameter: 30,775 miles (49,530 km)**
--   **Orbit: 165 Earth years**
--   **Day: 19 Earth hours**
